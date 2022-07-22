@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ps-mc-bbs.github.io</id>
+    <title>PSMC论坛</title>
+    <updated>2022-07-22T07:01:28.529Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ps-mc-bbs.github.io"/>
+    <link rel="self" href="https://ps-mc-bbs.github.io/atom.xml"/>
+    <subtitle>纯净生存服务器</subtitle>
+    <logo>https://ps-mc-bbs.github.io/images/avatar.png</logo>
+    <icon>https://ps-mc-bbs.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, PSMC论坛</rights>
+    <entry>
+        <title type="html"><![CDATA[-PSMC入服须知--]]></title>
+        <id>https://ps-mc-bbs.github.io/post/instructions/</id>
+        <link href="https://ps-mc-bbs.github.io/post/instructions/">
+        </link>
+        <updated>2022-07-22T02:16:01.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://i.postimg.cc/wvw5GLfq/pig.gif" alt="pig" loading="lazy"></figure>
+<h2 id="font-colorgreen服务器简介font"><strong><font color=green>服务器简介:</font></strong></h2>
+<h3 id="font-colorblackpsmc服务器初衷是以纯净养老为特色和谐为核心的养老服服务器至今已走过两月-font"><strong><font color=black>PSMC服务器初衷是以纯净养老为特色和谐为核心的养老服，服务器至今已走过两月。</font></strong></h3>
+<h3 id="font-colororange开放fontfont-colorblack服务器无圈地无奇怪死板的管理插件-font"><strong><font color=orange>开放:</font><font color=black>服务器无圈地，无奇怪死板的管理插件。</font></strong></h3>
+<h3 id="font-colororange安全fontfont-colorblack服务器会自动备份有回档插件保驾护航-font"><strong><font color=orange>安全:</font><font color=black>服务器会自动备份，有回档插件保驾护航。</font></strong></h3>
+<h3 id="font-colororange和谐fontfont-colorblack服务器向来有严格的反作弊系统和聊天系统即使你的资源不受保护也没有人来窃取哦-font"><strong><font color=orange>和谐:</font><font color=black>服务器向来有严格的反作弊系统和聊天系统，即使你的资源不受保护，也没有人来窃取哦。</font></strong></h3>
+<h4 id="font-colorgray邻居今天在外挖矿今天隔壁小镇在举办大赛昨天种下的树苗长高了你整装出门开始新的一天夜晚床头的小猫会等待下课下班的你归来font"><strong><font color=gray>邻居今天在外挖矿，今天隔壁小镇在举办大赛，昨天种下的树苗长高了，你整装出门开始新的一天，夜晚床头的小猫会等待下课/下班的你归来...</font></strong></h4>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://i.postimg.cc/wvw5GLfq/pig.gif" alt="pig" loading="lazy"></figure>
+<h2 id="font-colorgreen服务器简介font"><strong><font color=green>服务器简介:</font></strong></h2>
+<h3 id="font-colorblackpsmc服务器初衷是以纯净养老为特色和谐为核心的养老服服务器至今已走过两月-font"><strong><font color=black>PSMC服务器初衷是以纯净养老为特色和谐为核心的养老服，服务器至今已走过两月。</font></strong></h3>
+<h3 id="font-colororange开放fontfont-colorblack服务器无圈地无奇怪死板的管理插件-font"><strong><font color=orange>开放:</font><font color=black>服务器无圈地，无奇怪死板的管理插件。</font></strong></h3>
+<h3 id="font-colororange安全fontfont-colorblack服务器会自动备份有回档插件保驾护航-font"><strong><font color=orange>安全:</font><font color=black>服务器会自动备份，有回档插件保驾护航。</font></strong></h3>
+<h3 id="font-colororange和谐fontfont-colorblack服务器向来有严格的反作弊系统和聊天系统即使你的资源不受保护也没有人来窃取哦-font"><strong><font color=orange>和谐:</font><font color=black>服务器向来有严格的反作弊系统和聊天系统，即使你的资源不受保护，也没有人来窃取哦。</font></strong></h3>
+<h4 id="font-colorgray邻居今天在外挖矿今天隔壁小镇在举办大赛昨天种下的树苗长高了你整装出门开始新的一天夜晚床头的小猫会等待下课下班的你归来font"><strong><font color=gray>邻居今天在外挖矿，今天隔壁小镇在举办大赛，昨天种下的树苗长高了，你整装出门开始新的一天，夜晚床头的小猫会等待下课/下班的你归来...</font></strong></h4>
+<!-- more -->
+<h2 id="font-colorgreen服务器准则font"><strong><font color=green>服务器准则:</font></strong></h2>
+<h3 id="font-colororange一-服务器内禁止条例font"><strong><font color=orange>一、服务器内禁止条例</font></strong></h3>
+<h4 id="font-colorblack1-恶意破坏玩家的建筑-机械或在未经同意的情况下窃取私人财产-font"><font color=black>1、恶意破坏玩家的建筑、机械或在未经同意的情况下窃取私人财产。</font></h4>
+<h4 id="font-colorblack2-使用外挂-透视材质包-连点器等或使用影响其他玩家游戏体验和游戏平衡的模组-font"><font color=black>2、使用外挂、透视材质包、连点器等或使用影响其他玩家游戏体验和游戏平衡的模组。</font></h4>
+<h4 id="font-colorblack3-辱骂-挑衅玩家-font"><font color=black>3、辱骂、挑衅玩家。</font></h4>
+<h3 id="font-colororange二-服务器内注意事项font"><strong><font color=orange>二、服务器内注意事项</font></strong></h3>
+<h4 id="font-colorblack尽量不要过度建造各种影响服务器性能的设施-font"><font color=black>尽量不要过度建造各种影响服务器性能的设施。</font></h4>
+<h4 id="font-colorblack尽量不要资本化统治阶级化-font"><font color=black>尽量不要资本化，统治阶级化。</font></h4>
+<h4 id="font-colorblack服务器会运行至4-5年清档加大更新-font"><font color=black>服务器会运行至4--5年清档加大更新。</font></h4>
+<h4 id="font-colorblack潜影盒有几率在使用会被服务器卡掉-font"><font color=black>潜影盒有几率在使用会被服务器卡掉。</font></h4>
+<h4 id="font-colorblack服务器注重自由和开放并没有限制生物怪物生成效率或红石和大部分原版机制请注意自己行为可能会对服造成服务器tps卡顿矛盾font"><font color=black>（服务器注重自由和开放，并没有限制生物，怪物生成效率或红石和大部分原版机制，请注意自己行为可能会对服造成服务器tps卡顿，矛盾）</font></h4>
+<h3 id="font-colororange三-社区内禁止条例font"><strong><font color=orange>三、社区内禁止条例</font></strong></h3>
+<h4 id="font-colorblack1-辱骂-挑衅群成员-font"><font color=black>1、辱骂、挑衅群成员。</font></h4>
+<h4 id="font-colorblack2-散布谣言发布非法信息-font"><font color=black>2、散布谣言，发布非法信息。</font></h4>
+<h3 id="font-colororange四-关于举报及惩罚措施font"><strong><font color=orange>四、关于举报及惩罚措施</font></strong></h3>
+<h4 id="font-colorblack如您发现某玩家违反了服务器内禁止条例或者社区内禁止条例您有权向服主或管理员进行举报您可以使用图片作为有力的证据这将为我们改善服务器以及社区环境做出重要的贡献-font"><font color=black>如您发现某玩家违反了“服务器内禁止条例”或者：社区内禁止条例“，您有权向服主或管理员进行举报，您可以使用图片作为有力的证据，这将为我们改善服务器以及社区环境做出重要的贡献。</font></h4>
+<h4 id="font-colorblack我们会在接到举报后立刻核实并第一时间公平公正地解决您的问题为您带来更好的体验-font"><font color=black>我们会在接到举报后立刻核实，并第一时间公平公正地解决您的问题，为您带来更好的体验。</font></h4>
+<h4 id="font-colorblack我们会在事后根据玩家的情节轻重施行不同的惩罚措施-font"><font color=black>我们会在事后根据玩家的情节轻重施行不同的惩罚措施。</font></h4>
+<h4 id="font-colorred惩罚总览font"><strong><font color=red>惩罚总览:</font></strong></h4>
+<h4 id="font-colorred服务器内封禁1~10天不等font"><strong><font color=red>服务器内封禁1~10天不等</font></strong></h4>
+<h4 id="font-colorred社区内封禁1~10天不等font"><strong><font color=red>社区内封禁1~10天不等</font></strong></h4>
+<h4 id="font-colorred书写道歉信200字~500字font"><strong><font color=red>书写道歉信200字~500字</font></strong></h4>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[留言板]]></title>
+        <id>https://ps-mc-bbs.github.io/post/chatboard/</id>
+        <link href="https://ps-mc-bbs.github.io/post/chatboard/">
+        </link>
+        <updated>2022-07-21T12:52:10.000Z</updated>
+        <content type="html"><![CDATA[<p>在评论区开始留言吧</p>
+]]></content>
+    </entry>
+</feed>
